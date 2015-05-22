@@ -7,9 +7,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import maybe.phone_lab.org.maybelibrary.QueryIntentService;
-import maybe.phone_lab.org.maybelibrary.utils.MaybeService;
-import maybe.phone_lab.org.maybelibrary.utils.Utils;
+import maybe.phone_lab.org.maybe.library.QueryIntentService;
+import maybe.phone_lab.org.maybe.library.MaybeService;
+import maybe.phone_lab.org.maybe.library.utils.Utils;
 
 /**
  * A placeholder fragment containing a simple view.
